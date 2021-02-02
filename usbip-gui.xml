@@ -20,5 +20,5 @@ The usbip-host kernel module is not currently available as part of unraid and no
 <Changes>
 Initial Beta Release.
 </Changes>
-<IconFA>fa-usb</IconFA>
+<IconFA>usb</IconFA>
 </Containers>
