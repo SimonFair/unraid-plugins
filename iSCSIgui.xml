@@ -12,7 +12,7 @@
 <Description>
 The iSCSI GUI plugin allows you to view your iSCSI config.
 
-Kernel needs to support iSCSI, see Kernel Helper by ich777
+Kernel needs to support iSCSI, see ISCSI Target by ich777
 </Description>
 <Support>https://forums.unraid.net/topic/98483-plugin-iscsi-gui/</Support>
 <Date>2020-10-28</Date>
