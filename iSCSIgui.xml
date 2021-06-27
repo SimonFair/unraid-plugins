@@ -19,5 +19,5 @@ Targetcli package provided by ich777.
 <Changes>
 Initial Release still Beta
 </Changes>
-<Icon>https://github.com/SimonFair/unraid.iSCSI/blob/9b144ce815e244fd5f14a28ead1aeee179a9dd29/source/images/iscsi.png</Icon>
+<Icon>https://raw.githubusercontent.com/SimonFair/unraid.iSCSI/main/source/images/iscsi.png</Icon>
 </Containers>
