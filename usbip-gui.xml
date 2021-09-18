@@ -4,6 +4,8 @@
 <PluginURL>https://raw.githubusercontent.com/SimonFair/unraid.usbip-gui/master/usbip-gui.plg</PluginURL>
 <PluginAuthor>SimonFair</PluginAuthor>
 <Beta>True</Beta>
+<MaxVer>6.10.0-rc1</MaxVer>
+<MinVer>6.8.3</MinVer>
 <Category>Other: Drivers:</Category>
 <Name>Unraid USBip GUI</Name>
 <DonateText>If you wanna buy me a coffee.</DonateText>
