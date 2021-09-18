@@ -4,6 +4,7 @@
 <PluginURL>https://github.com/SimonFair/unraid.iSCSI/raw/main/iSCSIgui.plg</PluginURL>
 <PluginAuthor>SimonFair</PluginAuthor>
 <Beta>True</Beta>
+<MinVer>6.9.0</MinVer>
 <Category>Other: Drivers:</Category>
 <Name>iSCSI Target</Name>
 <DonateText>If you wanna buy me a coffee.</DonateText>

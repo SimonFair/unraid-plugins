@@ -4,6 +4,7 @@
 <PluginURL>https://raw.githubusercontent.com/SimonFair/usb_manager/master/usb_manager.plg</PluginURL>
 <PluginAuthor>SimonFair</PluginAuthor>
 <Beta>False</Beta>
+<MinVer>6.8.3</MinVer>
 <Category>Other: Drivers:</Category>
 <Name>USB Manager</Name>
 <DonateText>If you wanna buy me a coffee.</DonateText>
