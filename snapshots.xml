@@ -19,5 +19,5 @@ Provides GUI for BTRFS Snapshots.
 - Initial Beta release.
 
 </Changes>
-<IconFA>fa-clone</IconFA>
+<IconFA>clone</IconFA>
 </Containers>
