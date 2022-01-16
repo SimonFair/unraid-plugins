@@ -13,7 +13,7 @@
 Provides GUI for BTRFS Snapshots.
 
 </Description>
-<Support>https://forums.unraid.net/topic/77970-btrfs-snapshot-management-vm</Support>
+<Support>https://forums.unraid.net/topic/114600-plugin-snapshots/</Support>
 <Date>2021-12-27</Date>
 <Changes>
 - Initial Beta release.
