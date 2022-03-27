@@ -11,7 +11,9 @@
 <DonateLink>https://paypal.me/SimonNFairweather?locale.x=en_GB</DonateLink>
 <DonateImage>https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_74x21.png</DonateImage>
 <Description>
-Provides GUI for USB Devices. Beta V2 version
+Beta V2 version GUI for USB Management.
+  
+Please uninstall Stable Version before installing.
 
 Additional support via addon plugin for USB over IP. Addon plugin install button available via the settings page following enabling USBIP.
 
@@ -20,7 +22,9 @@ Additional support via addon plugin for USB over IP. Addon plugin install button
 <Support>https://forums.unraid.net/topic/100511-plugin-usbip-commands/</Support>
 <Date>2021-06-06</Date>
 <Changes>
-- Initial v2 beta release which is same as 2022.03.26 release updated code will be in next release.
+State key update. 
+  
+Initial v2 beta release which is same as 2022.03.26 release updated code will be in next release.
 
 You need to uninstall existing USB_Manager to use this new Beta.
 
