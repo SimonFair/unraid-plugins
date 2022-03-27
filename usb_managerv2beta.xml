@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.githubusercontent.com/SimonFair/usb_manager/master/usb_manager.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/SimonFair/usb_manager/master/usb_managerv2beta.plg</PluginURL>
 <PluginAuthor>SimonFair</PluginAuthor>
 <Beta>True</Beta>
 <MinVer>6.8.3</MinVer>
