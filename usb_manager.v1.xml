@@ -11,7 +11,9 @@
 <DonateLink>https://paypal.me/SimonNFairweather?locale.x=en_GB</DonateLink>
 <DonateImage>https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_74x21.png</DonateImage>
 <Description>
-Provides GUI for USB Devices.
+Back level version. Current verison is the USB Manager
+  
+  
 
 Additional support via addon plugin for USB over IP. Addon plugin install button available via the settings page following enabling USBIP.
 
