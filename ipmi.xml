@@ -12,7 +12,7 @@
 <Description>
 The ipmi plugin allows you to view your system sensors and events using your ipmi hardware. Allows for local or remote access and event notification.
 </Description>
-<Support>http://lime-technology.com/forum/index.php?topic=39787.0</Support>
+<Support>https://forums.unraid.net/topic/135823-plugin-ipmi-for-611-i/</Support>
 <Icon>https://raw.githubusercontent.com/SimonFair/IPMI-unRAID/master/plugin/ipmi.png</Icon>
 <Date>2023-02-28</Date>
 <Changes>
