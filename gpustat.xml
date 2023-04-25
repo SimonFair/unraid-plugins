@@ -8,8 +8,7 @@
     <Date>2023-05-25</Date>
     <Name>GPU Statistics</Name>
     <Description>
-        This plugin parses GPU statistic data from vendor specific utilities and displays a subset of them on the dashboard.
-        From version 6.12 onwards can support multiple GPUs on the dashboard and supports multiple Intel GPUs iGPU and ARC.
+        This plugin parses GPU statistic data from vendor specific utilities and displays a subset of them on the dashboard. From version 6.12 onwards can support multiple GPUs on the dashboard and supports multiple Intel GPUs iGPU and ARC.
     </Description>
     <Requires>
         **Nvidia Driver plugin** (nVidia Support) *or*
