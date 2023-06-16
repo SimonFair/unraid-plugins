@@ -14,7 +14,7 @@ Reads Tasmota power devices
 
 </Description>
 <Support>https://forums.unraid.net/topic/104565-plugin-tasmota-power-monitor</Support>
-<Date>2023-04-08</Date>
+<Date>2023-06-16</Date>
 <Changes>
 - Initial forked release.
 
