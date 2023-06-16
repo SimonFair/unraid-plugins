@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/SimonFair/tasmotapm-unraid/main/tasmotapm.plg</PluginURL>
+<PluginAuthor>SimonFair</PluginAuthor>
+<Beta>False</Beta>
+<Category>Other: Drivers:</Category>
+<Name>Tasmota Power</Name>
+<DonateText>If you wanna buy me a coffee.</DonateText>
+<DonateLink>https://paypal.me/SimonNFairweather?locale.x=en_GB</DonateLink>
+<DonateImage>https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_74x21.png</DonateImage>
+<Description>
+Reads Tasmota power devices
+
+</Description>
+<Support>https://forums.unraid.net/topic/104565-plugin-tasmota-power-monitor</Support>
+<Date>2023-04-08</Date>
+<Changes>
+- Initial forked release.
+
+
+</Changes>
+png</Icon>
+</Containers>
