@@ -20,4 +20,5 @@ Reads Tasmota power devices
 
 
 </Changes>
+<Icon>https://raw.githubusercontent.com/SimonFair/tasmotapm-unraid/main/src/tasmotapm/usr/local/emhttp/plugins/tasmotapm/icons/tasmotapm.png</Icon>
 </Containers>
