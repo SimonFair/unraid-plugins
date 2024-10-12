@@ -10,11 +10,6 @@
     <Description>
         This plugin parses GPU statistic data from vendor specific utilities and displays a subset of them on the dashboard. From version 6.12 onwards can support multiple GPUs on the dashboard and supports multiple Intel GPUs iGPU and ARC.
     </Description>
-    <Requires>
-        **Nvidia Driver plugin** (nVidia Support) *or*
-        **Intel GPU TOP plugin** (Intel Support) *or*
-        **AMD Driver** and **RadeonTop plugins** (AMD Support)
-    </Requires>
     <MinVer>6.7.1</MinVer>
     <Project>https://github.com/SimonFair/gpustat-unraid</Project>
     <Support>https://forums.unraid.net/topic/89453-plugin-gpu-statistics/</Support>
