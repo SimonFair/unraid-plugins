@@ -7,6 +7,9 @@
     <Category>Tools:System Drivers:</Category>
     <Date>2023-05-25</Date>
     <Name>GPU Statistics</Name>
+    <DonateText>If you wanna buy me a coffee.</DonateText>
+    <DonateLink>https://paypal.me/SimonNFairweather?locale.x=en_GB</DonateLink>
+    <DonateImage>https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_74x21.png</DonateImage>
     <Description>
         This plugin parses GPU statistic data from vendor specific utilities and displays a subset of them on the dashboard. From version 6.12 onwards can support multiple GPUs on the dashboard and supports multiple Intel GPUs iGPU and ARC.
     </Description>
